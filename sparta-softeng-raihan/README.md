@@ -35,7 +35,7 @@
 > <br>
 > 3 - Basis Data / CMS (tidak mengerjakan)
 
-# How to Run - Terminal
+# How to Run - Terminal & Local
 > 1 - Download all files
 > <br>
 > 2 - Open terminal
