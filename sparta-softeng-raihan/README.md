@@ -47,7 +47,7 @@
 > 5 - Enjoy
 
 # How to Run - Link Deployment
-> Click This Link : ...
+> Click This Link : https://sparta-softeng-raihan.vercel.app
 
 # Challenges
 > 1 - Perlu untuk belajar banyak hal baru sendiri tanpa memiliki dasar yang kokoh.
